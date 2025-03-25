@@ -1,6 +1,6 @@
 using '../../modules/management/main.bicep'
 
-param managementSubscriptionId = 'e678d35b-125e-41ad-ae35-c04dfd4162e5'
+param managementSubscriptionId = '08a54535-3b23-41cb-9ddc-156e4a022912'
 
 param resourceGroupName = 'Management'
 
