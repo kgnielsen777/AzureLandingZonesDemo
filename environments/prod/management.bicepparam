@@ -10,4 +10,4 @@ param workspaceName = 'ondfisklz'
 
 param storageAccountName = 'ondfisklz'
 
-param keyVaultName = 'ondfisklzkgn'
+param keyVaultName = 'ondfisklzkgn123'
